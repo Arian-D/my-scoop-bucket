@@ -1,0 +1,8 @@
+{
+    "version":  "2023-06-23",
+    "license":  "MIT",
+    "url":  "https://github.com/artempyanykh/marksman/releases/download/2023-06-23/marksman.exe",
+    "homepage":  "https://github.com/artempyanykh/marksman",
+    "hash":  "75e08048acb56d2d8674536b4a85ce8203f6c5f5d3f17609867127a8e1014853",
+    "bin":  "marksman.exe"
+}
